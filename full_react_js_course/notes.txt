@@ -1,0 +1,46 @@
+React JS
+
+* Props
+* State
+* Life cycle methods
+* Router
+* Portals
+
+This guys sounds like Chef John.
+
+You can access all script files belonging to the applications we will make during the course by going to this links;
+
+https://github.com/OakAcademy/react-router/tree/master/react-router
+
+https://github.com/OakAcademy/blog-posts
+
+https://github.com/OakAcademy/hemisphere
+
+https://github.com/OakAcademy/first-app
+
+https://github.com/OakAcademy/image-list
+
+https://github.com/OakAcademy/Context-Hooks/tree/master/contextapi
+
+** Section 2 ** (2022-09-25)
+
+Let, Const, and Var
+
+    Let and Const are block-scope. They only exist within the block where they are defined.
+    Const variables are immutable. We cannot change or redefine it.
+
+npm = Node Package Manager
+
+What get generated when you run create-react-app {app name} ?
+
+    src => Folder where we put all the source code we write
+    public => Folder that stores static files like images, music
+    node_modules => Folder that contains all of our project dependencies
+    package.json => Records our project dependencies and configures our project
+    package-lock.json or yarn.lock => Records the exact version of packages that we install
+    README.md => Instructions on how to use this project
+
+What is a react component?
+
+    A COMPONENT is a function or a class that uses JSX (which produces/displays HTML to user) and uses event handlers to do something with feedback/input from user.
+

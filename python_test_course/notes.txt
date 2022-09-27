@@ -1,0 +1,22 @@
+2022-08-23
+
+unit testing
+integration testing
+system testing
+user acceptance testing
+
+unittest
+
+Terminology
+
+Test Case
+    tests a specific method/function
+Test Suite
+    combines multiple test cases
+Test Runner
+
+Unit Under Test
+    the production code which is being tested
+Test Fixture
+    setup/tear down
+
