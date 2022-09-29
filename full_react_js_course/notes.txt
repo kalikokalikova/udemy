@@ -44,3 +44,29 @@ What is a react component?
 
     A COMPONENT is a function or a class that uses JSX (which produces/displays HTML to user) and uses event handlers to do something with feedback/input from user.
 
+** Section 3 ** (2022-09-29)
+
+What is JSX?
+
+    Technically, it's javascript, gets compiled by Babel into straight JS
+
+What kind of JS variables can we access in JSX blocks?
+
+    strings
+    ints
+    strings and numbers inside an array will get concatenated together and displayed
+    NOT OBJECTS (but text from an object is ok)
+
+** Section 4 ** (2022-09-29)
+
+Component Nesting - A component can be shown inside of another component
+
+Component Reusability - We want to make components reused throughout the application
+
+Component Configuration - We should be able to configure (customize) a component when it is created
+
+Props (Properties)
+
+    Props is a system for passing data from a parent component to a child component.
+    Its purpose is to customize or configure a child component.
+
